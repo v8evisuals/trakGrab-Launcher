@@ -12,7 +12,7 @@ __USAGE__
 Simply run "TrakGrab.bat".
 The beats will be downloaded in the "Song" folder found in "C:\Program Files\trakGrab-master"
 
-## trakGrab
+## trakGrab (All credits to espionn)
 
 trakGrab is a Python3 script designed for use on Windows.
 It downloads beats from a specified artists traktrain.com
