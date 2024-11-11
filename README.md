@@ -8,6 +8,7 @@ Then place the "TrakGrab.bat" file wherever you want (desktop recommended).
 Make sure the trakGrab Dependecies are installed.
 
 __USAGE__
+
 Simply run "TrakGrab.bat".
 The beats will be downloaded in the "Song" folder found in "C:\Program Files\trakGrab-master"
 
